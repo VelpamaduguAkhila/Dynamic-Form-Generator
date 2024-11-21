@@ -1,0 +1,35 @@
+.left-half {
+  width: 40%;
+  height: 80vh;
+  background-color: #f0f0f0; /* Optional: Add a background color */
+  overflow: auto; /* Optional: Add scroll if content overflows */
+  color: black;
+  background-color:antiquewhite;
+  margin-left: 10px;
+  margin-top: 20px;
+  border-width: 5px;
+  border-radius: 10px;
+  border-color: black;
+}
+
+.button{
+  height: 35px;
+  width: 75px;
+  margin-left: 260px;
+  margin-top: 10px;
+  color:black;
+  background-color: chocolate;
+  border-radius: 10px;
+}
+  
+.right-half {
+  width: 40%;
+  height: 80vh;
+  background-color: #f0f0f0; /* Optional: Add a background color */
+  color: black;
+  overflow: auto;
+  background-color: #f0f0f0;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+    
